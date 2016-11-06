@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bhefty/url-shortener-microservice/issues"
   },
-  "homepage": "https://github.com/bhefty/url-shortener-microservice#readme"
+  "homepage": "https://github.com/bhefty/url-shortener-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
